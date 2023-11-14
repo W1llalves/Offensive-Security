@@ -2,6 +2,18 @@
   https://owasp.org/www-community/api_security_tools
 
 #Opensource
+- awesome-apisec
+  https://github.com/arainho/awesome-api-security
+  A collection of awesome API Security tools and resources.
+
+- Automatic API attack tool
+  https://github.com/imperva/automatic-api-attack-tool
+
+- curl
+  https://curl.se/
+
+- GraphQL Cop
+  https://github.com/dolevf/graphql-cop
 
 #Comercial
   - Akto
@@ -19,3 +31,7 @@
   - pynt
     https://www.pynt.io/
     Your self-serve API security autopilot
+
+- BLST
+  https://blstsecurity.com/
+  BLST’s holistic API security platform delivers instant applied observability, advanced security assessment, and reliable monitoring.
