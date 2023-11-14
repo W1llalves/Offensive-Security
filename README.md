@@ -1,1 +1,1 @@
-Repositório de links para estudo de Seguraça Ofenciva e Seurança da informação.
+Repositório de links para estudo de Seguraça Ofenciva e Segurança da informação.
