@@ -1,0 +1,29 @@
+- assetfinder (github.com/tomnomnom/assetfinder)
+          A assetfinder é uma ferramenta desenvolvida em Go e que permite realizar uma pesquisa por Domínios e Subdomínios através de uma url alvo. É um recurso interessante para lhe auxiliar no processo de enumeração.
+
+- sigurlfind3r (https://github.com/signedsecurity/sigurlfind3r) 
+          A sigurlfind3r é uma ferramenta de enumeração de domínios que realiza a pesquisa em várias fontes e exibe resultados valiosos que podem ser utilizados durante a realização de um PenTest.
+
+- scilla (https://github.com/edoardottt/scilla)
+          A scilla é uma ferramenta desenvolvida em Go e que tem como objetivo enumerar Portas Abertas, DNS, Subdomínios e Diretórios Públicos de um Site ou IP.
+
+- adidnsdump (https://github.com/dirkjanm/adidnsdump)
+          Como sabem a enumeração é fundamental para a evolução durante o PenTest, e por padrão qualquer usuário do domínio consegue extrair a lista dos registro do DNS.
+
+- testssl.sh (testssl.sh)
+          O testssl.sh é uma ferramenta que permite avaliar de forma detalhada a criptografia TLS/SSL além de reportar a validade do certificado e suas vulnerabilidad
+
+
+**Search-Metadata**
+
+- URL-Extractor (www.bulkdachecker.com/url-extractor)
+          A URL-Extractor é uma ferramenta online que permite que você realize a extração de Links, Imagens, Scripts, Iframes e Embeds de um site. Está é uma das ferramentas disponíveis no site: www.bulkdachecker.com.
+
+
+- Goblyn (https://github.com/loseys/Goblyn)
+          A Goblyn é uma ferramenta desenvolvida em Python tem com objetivo realizar a Enumeração e a Extração de Metadados de arquivos hospedados em um determinado host, seja este um Site Web ou um dispositivo físico como um roteador por exemplo.
+
+**Mapping-Site**
+
+- MAP-Generator (requestmap.herokuapp.com)
+          Este é um projeto bem interessante e que exibe diversas informações detalhadas sobre um determinado site e suas conexão. É um recurso bem interessante para utilizar em um projeto de PenTest por exemplo, pois você pode encontrar algum tipo de conexão maliciosa existente no site.
