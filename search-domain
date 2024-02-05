@@ -13,6 +13,29 @@
 - testssl.sh (testssl.sh)
           O testssl.sh é uma ferramenta que permite avaliar de forma detalhada a criptografia TLS/SSL além de reportar a validade do certificado e suas vulnerabilidad
 
+- HAKRAWLER (https://dl.google.com/go/go1.13.5.linux-amd64.tar.gz)
+          O HAKRAWLER é uma ferramenta desenvolvida em GO que permite realizar a enumeração de links, subdomínios, robots, sitemap, etc. de um determinado domínio.
+
+- TugaRecon (https://github.com/LordNeoStark/tugarecon)
+          O TugaRecon é uma ferramenta desenvolvida em Python que tem como objetivo realizar a enumeração de subdomínios. Uma ótima ferramenta para você adicionar em seu kit de PenTest.
+
+- Habu (github.com/fportantier/habu)
+          O Habu é uma ferramenta desenvolvida em Python que possui diversos parâmetros que podem lhe auxiliar durante um PenTest. Neste artigo mostro algumas das opções do Habu que você pode utilizar no Windows.
+
+- SiteBroker (github.com/Anon-Exploiter/SiteBroker)
+          O SiteBroker é uma ferramenta desenvolvida em Python que possui diversos recursos e que podem lhe auxiliar durante um PenTest.
+
+- SubDomain Analyzer (github.com/El3ct71k/SubDomain-Analyzer)
+          O SubDomain Analyzer é uma ferramenta desenvolvida em Python que possui diversos recursos para analisar os Sub-domínios de um site.
+
+- BillCipher (github.com/bahatiphill/BillCipher)
+          A BillCipher é uma ferramenta desenvolvida em Python e Ruby que contém diversos recursos para realizar a coleta de informações de um determinado site ou endereço IP.
+
+- SubBrute (github.com/le4f/subbrute)
+          O SubBrute é uma ferramenta desenvolvida em Python que tem como objetivo auxiliar na enumeração de DNS e um dos recursos interessantes que o SubBrute possui é a forma de varredura que utiliza, pois ele prioriza o anonimato durante a pesquisa utilizando-se de proxy a fim de evitar um tráfego direto aos servidores alvo.
+
+
+
 
 *Search-Metadata*
 
@@ -27,3 +50,8 @@
 
 - MAP-Generator (requestmap.herokuapp.com)
           Este é um projeto bem interessante e que exibe diversas informações detalhadas sobre um determinado site e suas conexão. É um recurso bem interessante para utilizar em um projeto de PenTest por exemplo, pois você pode encontrar algum tipo de conexão maliciosa existente no site.
+
+- DNSMaper (github.com/le4f/dnsmaper)
+          O DNSMaper é uma ferramenta desenvolvida em Python que possui diversos recursos, dentre eles a Detecção de Transferência de Domínio e Sub-Domínios, Detecção de Banners, Testes de Transferência de Zonas DNS, etc.
+
+
