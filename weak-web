@@ -1,0 +1,22 @@
+- Nikto Web Scanner (www.cirt.net)
+            Nikto é uma ferramenta que verifica vulnerabilidades em servidores web e gera um relatório destacando as possíveis vulnerabilidades.
+
+- JoomlaVS (https://github.com/rastating/joomlavs)
+            O JoomlaVS é uma ferramenta desenvolvida em ruby que pesquisa vulnerabilidades em Componentes, Módulos e Modelos da plataforma Joomla.
+
+-  VULNERS (vulners.com)
+            O VULNERS é um site onde você pode consultar as vulnerabilidades que foram registradas por fabricantes, pesquisadores e profissionais de Segurança da Informação.
+
+- WPSeku (github.com/andripwn/WPSeku)
+            O WPSeku é mais uma das inúmeras ferramentas de análise de segurança para a plataforma WORDPRESS. Certamente pode ser útil durante um PenTest.
+
+- XSSCRAPY (github.com/DanMcInerney/xsscrapy)
+            O XSSCRAPY é uma ferramenta desenvolvida em python que realiza uma varredura completa no site alvo e exibe todos os links que estão passíveis a XSS e SQLi.
+
+- YASUO (github.com/0xsauby/yasuo)
+            O YASUO é um script desenvolvido em Ruby que pode ser muito útil durante um PenTest com ele é possível realizar testes internos e externos de uma aplicação web.
+
+- Netsparker (https://www.100security.com.br/netsparker)
+            O Netsparker é uma ferramenta para realizar análise de vulnerabilidades web, é possível detectar vulnerabilidades web como SQL Injection, Cross-site Scripting dentre outras vulnerabilidades conhecidas
+            
+            
