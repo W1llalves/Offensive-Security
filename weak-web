@@ -19,4 +19,5 @@
 - Netsparker (https://www.100security.com.br/netsparker)
             O Netsparker é uma ferramenta para realizar análise de vulnerabilidades web, é possível detectar vulnerabilidades web como SQL Injection, Cross-site Scripting dentre outras vulnerabilidades conhecidas
             
-            
+- Dalfox (https://github.com/hahwul/dalfox)
+            Ferramenta de código aberto que se concentra na automação, ideal para verificar rapidamente falhas de XSS e analisar parâmetros.
